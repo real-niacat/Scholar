@@ -40,3 +40,6 @@ You can find the suggestion and planning document [Here](https://docs.google.com
             return func_hook(x)
         end
         ```
+
+- Do not update the implemented Joker count in this file yourself if you are making a pull request
+    - Doing this will very likely cause conflicts if the mod updates before your PR is merged.
