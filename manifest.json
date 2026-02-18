@@ -1,0 +1,11 @@
+{
+	"id": "scholar",
+	"name": "Scholar", 
+	"author": ["metanite64", "notmario", "Lily Felli"], 
+	"description": "A balatro mod which complicates all Jokers, but makes them potentially stronger.",
+	"prefix": "sch",
+	"main_file": "main.lua",
+	"priority": 0, 
+	"badge_colour": "ff5555",
+	"version": "0.0.1",
+}
