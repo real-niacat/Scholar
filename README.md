@@ -6,7 +6,7 @@ All vanilla Jokers receive a fresh coat of paint, effect-wise.
 Jokers are now much more complicated, having 2-5 separate effects which allow for many more synergies and unique builds.
 
 You can find the suggestion and planning document [Here](https://docs.google.com/spreadsheets/d/1KdAGnW1ntXrrdpWyZgHtaKW-x_4lT0-57tMybdHBN6U/edit?gid=0#gid=0).
-### Jokers Implemented: 0/150
+### Jokers Implemented: 1/150
 
 # Contributing
 #### The following are not hard rules, but guidelines for consistent code.

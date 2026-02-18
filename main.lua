@@ -4,10 +4,11 @@ Scholar = SMODS.current_mod
 Scholar.variants = {} --populated in src/api.lua
 Scholar.Jokers = {}
 
+Scholar.optional_features = {
+    post_trigger = true,
+}
 
 -- Recursive loading
---weow
--- its like meow but the first m is upsi dow
 
 local blacklist = {
     assets = true,

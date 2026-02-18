@@ -4,7 +4,14 @@ return {
             j_sch_joker = {
                 name = "Joker",
                 text = { {
-
+                    "{C:mult}+#1#{} Mult"
+                }, {
+                    "This Joker gains {C:mult}+#2#{} Mult",
+                    "after hand scores if no other {C:attention}Jokers{}",
+                    "triggered during scoring",
+                }, {
+                    "This Joker loses {C:mult}#3#{} Mult",
+                    "when another {C:attention}Joker{} triggers",
                 } },
             },
 
