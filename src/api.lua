@@ -9,7 +9,7 @@ Scholar.Joker = SMODS.Joker:extend {
         self.pos = original_center.pos
         self.soul_pos = original_center.soul_pos
         self.rarity = original_center.rarity
-        self.cost = original_center.cost
+        self.cost = self.cost or original_center.cost
         Scholar.variants[self.orig_key] = self.key
         SMODS.Joker.register(self) 
     end,
