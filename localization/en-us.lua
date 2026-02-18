@@ -2,1050 +2,1050 @@ return {
     descriptions = {
         Joker = {
             j_sch_joker = {
-                name = "",
+                name = "Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_greedy_joker = {
-                name = "",
+                name = "Greedy Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_lusty_joker = {
-                name = "",
+                name = "Lusty Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_wrathful_joker = {
-                name = "",
+                name = "Wrathful Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_gluttenous_joker = {
-                name = "",
+                name = "Gluttonous Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_jolly = {
-                name = "",
+                name = "Jolly Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_zany = {
-                name = "",
+                name = "Zany Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_mad = {
-                name = "",
+                name = "Mad Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_crazy = {
-                name = "",
+                name = "Crazy Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_droll = {
-                name = "",
+                name = "Droll Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_sly = {
-                name = "",
+                name = "Sly Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_wily = {
-                name = "",
+                name = "Wily Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_clever = {
-                name = "",
+                name = "Clever Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_devious = {
-                name = "",
+                name = "Devious Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_crafty = {
-                name = "",
+                name = "Crafty Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_half = {
-                name = "",
+                name = "Half Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_stencil = {
-                name = "",
+                name = "Joker Stencil",
                 text = { {
 
                 } },
             },
 
             j_sch_four_fingers = {
-                name = "",
+                name = "Four Fingers",
                 text = { {
 
                 } },
             },
 
             j_sch_mime = {
-                name = "",
+                name = "Mime",
                 text = { {
 
                 } },
             },
 
             j_sch_credit_card = {
-                name = "",
+                name = "Credit Card",
                 text = { {
 
                 } },
             },
 
             j_sch_ceremonial = {
-                name = "",
+                name = "Ceremonial Dagger",
                 text = { {
 
                 } },
             },
 
             j_sch_banner = {
-                name = "",
+                name = "Banner",
                 text = { {
 
                 } },
             },
 
             j_sch_mystic_summit = {
-                name = "",
+                name = "Mystic Summit",
                 text = { {
 
                 } },
             },
 
             j_sch_marble = {
-                name = "",
+                name = "Marble Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_loyalty_card = {
-                name = "",
+                name = "Loyalty Card",
                 text = { {
 
                 } },
             },
 
             j_sch_8_ball = {
-                name = "",
+                name = "8 Ball",
                 text = { {
 
                 } },
             },
 
             j_sch_misprint = {
-                name = "",
+                name = "Misprint",
                 text = { {
 
                 } },
             },
 
             j_sch_dusk = {
-                name = "",
+                name = "Dusk",
                 text = { {
 
                 } },
             },
 
             j_sch_raised_fist = {
-                name = "",
+                name = "Raised Fist",
                 text = { {
 
                 } },
             },
 
             j_sch_chaos = {
-                name = "",
+                name = "Chaos the Clown",
                 text = { {
 
                 } },
             },
 
             j_sch_fibonacci = {
-                name = "",
+                name = "Fibonacci",
                 text = { {
 
                 } },
             },
 
             j_sch_steel_joker = {
-                name = "",
+                name = "Steel Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_scary_face = {
-                name = "",
+                name = "Scary Face",
                 text = { {
 
                 } },
             },
 
             j_sch_abstract = {
-                name = "",
+                name = "Abstract Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_delayed_grat = {
-                name = "",
+                name = "Delayed Gratification",
                 text = { {
 
                 } },
             },
 
             j_sch_hack = {
-                name = "",
+                name = "Hack",
                 text = { {
 
                 } },
             },
 
             j_sch_pareidolia = {
-                name = "",
+                name = "Pareidolia",
                 text = { {
 
                 } },
             },
 
             j_sch_gros_michel = {
-                name = "",
+                name = "Gros Michel",
                 text = { {
 
                 } },
             },
 
             j_sch_even_steven = {
-                name = "",
+                name = "Even Steven",
                 text = { {
 
                 } },
             },
 
             j_sch_odd_todd = {
-                name = "",
+                name = "Odd Todd",
                 text = { {
 
                 } },
             },
 
             j_sch_scholar = {
-                name = "",
+                name = "Scholar",
                 text = { {
 
                 } },
             },
 
             j_sch_business = {
-                name = "",
+                name = "Business Card",
                 text = { {
 
                 } },
             },
 
             j_sch_supernova = {
-                name = "",
+                name = "Supernova",
                 text = { {
 
                 } },
             },
 
             j_sch_ride_the_bus = {
-                name = "",
+                name = "Ride the Bus",
                 text = { {
 
                 } },
             },
 
             j_sch_space = {
-                name = "",
+                name = "Space Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_egg = {
-                name = "",
+                name = "Egg",
                 text = { {
 
                 } },
             },
 
             j_sch_burglar = {
-                name = "",
+                name = "Burglar",
                 text = { {
 
                 } },
             },
 
             j_sch_blackboard = {
-                name = "",
+                name = "Blackboard",
                 text = { {
 
                 } },
             },
 
             j_sch_runner = {
-                name = "",
+                name = "Runner",
                 text = { {
 
                 } },
             },
 
             j_sch_ice_cream = {
-                name = "",
+                name = "Ice Cream",
                 text = { {
 
                 } },
             },
 
             j_sch_dna = {
-                name = "",
+                name = "DNA",
                 text = { {
 
                 } },
             },
 
             j_sch_splash = {
-                name = "",
+                name = "Splash",
                 text = { {
 
                 } },
             },
 
             j_sch_blue_joker = {
-                name = "",
+                name = "Blue Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_sixth_sense = {
-                name = "",
+                name = "Sixth Sense",
                 text = { {
 
                 } },
             },
 
             j_sch_constellation = {
-                name = "",
+                name = "Constellation",
                 text = { {
 
                 } },
             },
 
             j_sch_hiker = {
-                name = "",
+                name = "Hiker",
                 text = { {
 
                 } },
             },
 
             j_sch_faceless = {
-                name = "",
+                name = "Faceless Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_green_joker = {
-                name = "",
+                name = "Green Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_superposition = {
-                name = "",
+                name = "Superposition",
                 text = { {
 
                 } },
             },
 
             j_sch_todo_list = {
-                name = "",
+                name = "To Do List",
                 text = { {
 
                 } },
             },
 
             j_sch_cavendish = {
-                name = "",
+                name = "Cavendish",
                 text = { {
 
                 } },
             },
 
             j_sch_card_sharp = {
-                name = "",
+                name = "Card Sharp",
                 text = { {
 
                 } },
             },
 
             j_sch_red_card = {
-                name = "",
+                name = "Red Card",
                 text = { {
 
                 } },
             },
 
             j_sch_madness = {
-                name = "",
+                name = "Madness",
                 text = { {
 
                 } },
             },
 
             j_sch_square = {
-                name = "",
+                name = "Square Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_seance = {
-                name = "",
+                name = "Séance",
                 text = { {
 
                 } },
             },
 
             j_sch_riff_raff = {
-                name = "",
+                name = "Riff-Raff",
                 text = { {
 
                 } },
             },
 
             j_sch_vampire = {
-                name = "",
+                name = "Vampire",
                 text = { {
 
                 } },
             },
 
             j_sch_shortcut = {
-                name = "",
+                name = "Shortcut",
                 text = { {
 
                 } },
             },
 
             j_sch_hologram = {
-                name = "",
+                name = "Hologram",
                 text = { {
 
                 } },
             },
 
             j_sch_vagabond = {
-                name = "",
+                name = "Vagabond",
                 text = { {
 
                 } },
             },
 
             j_sch_baron = {
-                name = "",
+                name = "Baron",
                 text = { {
 
                 } },
             },
 
             j_sch_cloud_9 = {
-                name = "",
+                name = "Cloud 9",
                 text = { {
 
                 } },
             },
 
             j_sch_rocket = {
-                name = "",
+                name = "Rocket",
                 text = { {
 
                 } },
             },
 
             j_sch_obelisk = {
-                name = "",
+                name = "Obelisk",
                 text = { {
 
                 } },
             },
 
             j_sch_midas_mask = {
-                name = "",
+                name = "Midas Mask",
                 text = { {
 
                 } },
             },
 
             j_sch_luchador = {
-                name = "",
+                name = "Luchador",
                 text = { {
 
                 } },
             },
 
             j_sch_photograph = {
-                name = "",
+                name = "Photograph",
                 text = { {
 
                 } },
             },
 
             j_sch_gift = {
-                name = "",
+                name = "Gift Card",
                 text = { {
 
                 } },
             },
 
             j_sch_turtle_bean = {
-                name = "",
+                name = "Turtle Bean",
                 text = { {
 
                 } },
             },
 
             j_sch_erosion = {
-                name = "",
+                name = "Erosion",
                 text = { {
 
                 } },
             },
 
             j_sch_reserved_parking = {
-                name = "",
+                name = "Reserved Parking",
                 text = { {
 
                 } },
             },
 
             j_sch_mail = {
-                name = "",
+                name = "Mail-In Rebate",
                 text = { {
 
                 } },
             },
 
             j_sch_to_the_moon = {
-                name = "",
+                name = "To the Moon",
                 text = { {
 
                 } },
             },
 
             j_sch_hallucination = {
-                name = "",
+                name = "Hallucination",
                 text = { {
 
                 } },
             },
 
             j_sch_fortune_teller = {
-                name = "",
+                name = "Fortune Teller",
                 text = { {
 
                 } },
             },
 
             j_sch_juggler = {
-                name = "",
+                name = "Juggler",
                 text = { {
 
                 } },
             },
 
             j_sch_drunkard = {
-                name = "",
+                name = "Drunkard",
                 text = { {
 
                 } },
             },
 
             j_sch_stone = {
-                name = "",
+                name = "Stone Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_golden = {
-                name = "",
+                name = "Golden Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_lucky_cat = {
-                name = "",
+                name = "Lucky Cat",
                 text = { {
 
                 } },
             },
 
             j_sch_baseball = {
-                name = "",
+                name = "Baseball Card",
                 text = { {
 
                 } },
             },
 
             j_sch_bull = {
-                name = "",
+                name = "Bull",
                 text = { {
 
                 } },
             },
 
             j_sch_diet_cola = {
-                name = "",
+                name = "Diet Cola",
                 text = { {
 
                 } },
             },
 
             j_sch_trading = {
-                name = "",
+                name = "Trading Card",
                 text = { {
 
                 } },
             },
 
             j_sch_flash = {
-                name = "",
+                name = "Flash Card",
                 text = { {
 
                 } },
             },
 
             j_sch_popcorn = {
-                name = "",
+                name = "Popcorn",
                 text = { {
 
                 } },
             },
 
             j_sch_trousers = {
-                name = "",
+                name = "Spare Trousers",
                 text = { {
 
                 } },
             },
 
             j_sch_ancient = {
-                name = "",
+                name = "Ancient Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_ramen = {
-                name = "",
+                name = "Ramen",
                 text = { {
 
                 } },
             },
 
             j_sch_walkie_talkie = {
-                name = "",
+                name = "Walkie Talkie",
                 text = { {
 
                 } },
             },
 
             j_sch_selzer = {
-                name = "",
+                name = "Seltzer",
                 text = { {
 
                 } },
             },
 
             j_sch_castle = {
-                name = "",
+                name = "Castle",
                 text = { {
 
                 } },
             },
 
             j_sch_smiley = {
-                name = "",
+                name = "Smiley Face",
                 text = { {
 
                 } },
             },
 
             j_sch_campfire = {
-                name = "",
+                name = "Campfire",
                 text = { {
 
                 } },
             },
 
             j_sch_ticket = {
-                name = "",
+                name = "Golden Ticket",
                 text = { {
 
                 } },
             },
 
             j_sch_mr_bones = {
-                name = "",
+                name = "Mr. Bones",
                 text = { {
 
                 } },
             },
 
             j_sch_acrobat = {
-                name = "",
+                name = "Acrobat",
                 text = { {
 
                 } },
             },
 
             j_sch_sock_and_buskin = {
-                name = "",
+                name = "Sock and Buskin",
                 text = { {
 
                 } },
             },
 
             j_sch_swashbuckler = {
-                name = "",
+                name = "Swashbuckler",
                 text = { {
 
                 } },
             },
 
             j_sch_troubadour = {
-                name = "",
+                name = "Troubadour",
                 text = { {
 
                 } },
             },
 
             j_sch_certificate = {
-                name = "",
+                name = "Certificate",
                 text = { {
 
                 } },
             },
 
             j_sch_smeared = {
-                name = "",
+                name = "Smeared Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_throwback = {
-                name = "",
+                name = "Throwback",
                 text = { {
 
                 } },
             },
 
             j_sch_hanging_chad = {
-                name = "",
+                name = "Hanging Chad",
                 text = { {
 
                 } },
             },
 
             j_sch_rough_gem = {
-                name = "",
+                name = "Rough Gem",
                 text = { {
 
                 } },
             },
 
             j_sch_bloodstone = {
-                name = "",
+                name = "Bloodstone",
                 text = { {
 
                 } },
             },
 
             j_sch_arrowhead = {
-                name = "",
+                name = "Arrowhead",
                 text = { {
 
                 } },
             },
 
             j_sch_onyx_agate = {
-                name = "",
+                name = "Onyx Agate",
                 text = { {
 
                 } },
             },
 
             j_sch_glass = {
-                name = "",
+                name = "Glass Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_ring_master = {
-                name = "",
+                name = "Showman",
                 text = { {
 
                 } },
             },
 
             j_sch_flower_pot = {
-                name = "",
+                name = "Flower Pot",
                 text = { {
 
                 } },
             },
 
             j_sch_blueprint = {
-                name = "",
+                name = "Blueprint",
                 text = { {
 
                 } },
             },
 
             j_sch_wee = {
-                name = "",
+                name = "Wee Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_merry_andy = {
-                name = "",
+                name = "Merry Andy",
                 text = { {
 
                 } },
             },
 
             j_sch_oops = {
-                name = "",
+                name = "Oops! All 6s",
                 text = { {
 
                 } },
             },
 
             j_sch_idol = {
-                name = "",
+                name = "The Idol",
                 text = { {
 
                 } },
             },
 
             j_sch_seeing_double = {
-                name = "",
+                name = "Seeing Double",
                 text = { {
 
                 } },
             },
 
             j_sch_matador = {
-                name = "",
+                name = "Matador",
                 text = { {
 
                 } },
             },
 
             j_sch_hit_the_road = {
-                name = "",
+                name = "Hit the Road",
                 text = { {
 
                 } },
             },
 
             j_sch_duo = {
-                name = "",
+                name = "The Duo",
                 text = { {
 
                 } },
             },
 
             j_sch_trio = {
-                name = "",
+                name = "The Trio",
                 text = { {
 
                 } },
             },
 
             j_sch_family = {
-                name = "",
+                name = "The Family",
                 text = { {
 
                 } },
             },
 
             j_sch_order = {
-                name = "",
+                name = "The Order",
                 text = { {
 
                 } },
             },
 
             j_sch_tribe = {
-                name = "",
+                name = "The Tribe",
                 text = { {
 
                 } },
             },
 
             j_sch_stuntman = {
-                name = "",
+                name = "Stuntman",
                 text = { {
 
                 } },
             },
 
             j_sch_invisible = {
-                name = "",
+                name = "Invisible Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_brainstorm = {
-                name = "",
+                name = "Brainstorm",
                 text = { {
 
                 } },
             },
 
             j_sch_satellite = {
-                name = "",
+                name = "Satellite",
                 text = { {
 
                 } },
             },
 
             j_sch_shoot_the_moon = {
-                name = "",
+                name = "Shoot the Moon",
                 text = { {
 
                 } },
             },
 
             j_sch_drivers_license = {
-                name = "",
+                name = "Driver's License",
                 text = { {
 
                 } },
             },
 
             j_sch_cartomancer = {
-                name = "",
+                name = "Cartomancer",
                 text = { {
 
                 } },
             },
 
             j_sch_astronomer = {
-                name = "",
+                name = "Astronomer",
                 text = { {
 
                 } },
             },
 
             j_sch_burnt = {
-                name = "",
+                name = "Burnt Joker",
                 text = { {
 
                 } },
             },
 
             j_sch_bootstraps = {
-                name = "",
+                name = "Bootstraps",
                 text = { {
 
                 } },
             },
 
             j_sch_caino = {
-                name = "",
+                name = "Canio",
                 text = { {
 
                 } },
             },
 
             j_sch_triboulet = {
-                name = "",
+                name = "Triboulet",
                 text = { {
 
                 } },
             },
 
             j_sch_yorick = {
-                name = "",
+                name = "Yorick",
                 text = { {
 
                 } },
             },
 
             j_sch_chicot = {
-                name = "",
+                name = "Chicot",
                 text = { {
 
                 } },
             },
 
             j_sch_perkeo = {
-                name = "",
+                name = "Perkeo",
                 text = { {
 
                 } },

@@ -21,3 +21,9 @@ Scholar.Joker = SMODS.Joker:extend {
 function Scholar.get_scholarly(o_key)
     return Scholar.variants[o_key]
 end
+
+-- adds support for finer-tuning interest, as multiple planned jokers modify it quite heavily
+-- relies on Scholar/lovely/interest_mod.toml
+function Scholar.calc_interest()
+    return G.GAME.interest_amount*math.min(math.floor(G.GAME.dollars/5), G.GAME.interest_cap/5)
+end

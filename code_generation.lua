@@ -61,7 +61,7 @@ return {
 
     local joker_template = [[
 %s = {
-    name = "",
+    name = "%s",
     text = {{
 
     }},
@@ -71,7 +71,8 @@ return {
     local built = ""
     for _,joker in ipairs(G.P_CENTER_POOLS.Joker) do
         if joker.original_mod then
-            built = built .. joker_template:format(joker.key) .. "\n"
+            local constructed = joker_template:format(joker.key, localize{set = "Joker", type = "name_text", key = joker.orig_key} )
+            built = built .. constructed .. "\n"
         end
     end
     love.system.setClipboardText(template:format(built))
