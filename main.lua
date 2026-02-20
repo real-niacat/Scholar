@@ -22,16 +22,15 @@ local function load_file_native(path, id)
     if not path or path == "" then
         error("No path was provided to load.")
     end
-    local file_path = path
-    local file_content, err = SMODS.NFS.read(file_path)
+    local file_content, readerr = SMODS.NFS.read(path)
     if not file_content then
-        return nil,
-            "Error reading file '" .. path .. "' for mod with ID '" .. SMODS.current_mod.id .. "': " .. err
+        local error_message = "Error reading file '" .. path .. "' for mod with ID '" .. SMODS.current_mod.id .. "': " .. readerr
+        return nil, error_message
     end
     local chunk, loaderr = load(file_content, "=[SMODS " .. SMODS.current_mod.id .. ' "' .. path .. '"]')
     if not chunk then
-        return nil,
-            "Error processing file '" .. path .. "' for mod with ID '" .. SMODS.current_mod.id .. "': " .. loaderr
+        local error_message = "Error processing file '" .. path .. "' for mod with ID '" .. SMODS.current_mod.id .. "': " .. loaderr
+        return nil, error_message
     end
     return chunk
 end
@@ -42,16 +41,16 @@ local function load_files(path, dirs_only, initial)
     for i, v in pairs(info) do
         if v.type == "directory" and not blacklist[v.name] then
             to_load = SMODS.merge_lists({ to_load, load_files(path .. "/" .. v.name, false, false) })
+            -- appends all files from the next directory deep to the list of things to load
         elseif not dirs_only then
-            if string.find(v.name, ".lua") and not string.find(v.name, ".ignore_") then -- no X.lua.txt files or whatever unless they are also lua files
+            if string.find(v.name, ".lua") and not string.find(v.name, ".ignore_") then
+                -- add to to_load by path
                 table.insert(to_load, path .. "/" .. v.name)
             end
         end
     end
 
-    -- print(to_load)
     if not initial then
-        -- print("returning")
         return to_load
     end
 
@@ -59,6 +58,7 @@ local function load_files(path, dirs_only, initial)
         local f, err = load_file_native(file)
         if f then
             f()
+            -- actually loads the file, as `load_file_native` and `load` return functions
         else
             error("error in file " .. file .. ": " .. err)
         end
